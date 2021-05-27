@@ -24,10 +24,10 @@ Here a few learning resources you may find helpful,
 To install the plugin for your Gatsby project, use this command,
 
 ```shell
-npm install
+npm i gatsby-source-harperdb
 
 # If you are using yarn, try this,
-# yarn install
+# yarn add gatsby-source-harperdb
 ```
 
 Please note: `Gatsby` documentation uses `npm` for installation. It is the recommended approach for plugins as well. However, my test with `yarn` also went well.
