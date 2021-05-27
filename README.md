@@ -1,5 +1,9 @@
 # gatsby-source-harperdb
 
+<p align="center">
+    <img src="./soacial.png" alt="social">
+</p>
+
 ## Description
 
 Include a summary of what this plugin accomplishes. Is there a demo site that shows how this plugin operates? If so, include a link to the deployed demo site and/or its source code here.
