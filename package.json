@@ -1,11 +1,8 @@
 {
   "name": "gatsby-source-harperdb",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Gatsby source plugin to fetch documents from Harper DB.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atapas/gatsby-source-harperdb.git"
@@ -16,5 +13,25 @@
   "bugs": {
     "url": "https://github.com/atapas/gatsby-source-harperdb/issues"
   },
-  "homepage": "https://github.com/atapas/gatsby-source-harperdb#readme"
+  "homepage": "https://github.com/atapas/gatsby-source-harperdb#readme",
+  "dependencies": {
+    "@babel/runtime": "^7.8.7",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.7",
+    "babel-preset-gatsby-package": "^0.3.1",
+    "cross-env": "^5.2.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^3.0.0"
+  },
+  "scripts": {
+    "build": "babel src --out-dir .",
+    "prepare": "cross-env NODE_ENV=production npm run build"
+  },
+  "engines": {
+    "node": ">=10.13.0"
+  }
 }
