@@ -1,7 +1,7 @@
 # gatsby-source-harperdb
 
 <p align="center">
-    <img src="./soacial.png" alt="social">
+    <img src="./social.png" alt="social">
 </p>
 
 ## Description
