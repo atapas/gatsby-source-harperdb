@@ -1,13 +1,17 @@
 {
   "name": "gatsby-source-harperdb",
   "version": "1.0.0",
-  "description": "A Gatsby source plugin to fetch documents from Harper DB.",
+  "description": "A Gatsby source plugin to fetch data from HarperDB.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/atapas/gatsby-source-harperdb.git"
   },
-  "keywords": [],
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "harperdb"
+  ],
   "author": "Tapas Adhikary <tapas.adhikary@gail.com> (https://tapasadhikary.com/)",
   "license": "MIT",
   "bugs": {
