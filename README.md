@@ -1,7 +1,7 @@
 # gatsby-source-harperdb
 
 <p align="center">
-    <img src="./social.png" alt="social">
+    <img src="https://github.com/atapas/gatsby-source-harperdb/blob/master/social.png" alt="social">
 </p>
 
 ## Description
