@@ -12,7 +12,7 @@ Gatsby's massive plugin ecosystem allows us to pull data from several data sourc
 
 It will help any `Gatsbyjs` app to create a prebuilt markup with the data from `HarperDB`.
 
-### Learning Resources (optional)
+### Learning Resources
 
 Here a few learning resources you may find helpful,
 
