@@ -76,7 +76,7 @@ query MyQuery {
   }
 }
 ```
-It will return the rating and the publisher name of all the books in the database.
+It will return the rating and the publisher's name of all the books in the database.
 
 ```json
 {
